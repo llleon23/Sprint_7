@@ -1,0 +1,6 @@
+MAIN_URL = 'https://qa-scooter.praktikum-services.ru/api/v1'
+CREATE_COURIER_URL = f'{MAIN_URL}/courier'
+CREATE_ORDER_URL = f'{MAIN_URL}/orders'
+GETTING_ORDERS_URL = f'{MAIN_URL}/orders'
+LOGIN_COURIER_URL = f'{MAIN_URL}/courier/login'
+DELETE_COURIER_URL = f'{MAIN_URL}/courier/'
